@@ -7,9 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monish-14&label=Profile%20views&color=0e75b6&style=flat" alt="monish-14" /> </p>
 
 - 🌱 I’m currently learning **Flutter**
-
-- 💬 Ask me about **Flutter , Programming**
-
+- 🔭 I’m currently working on **Weather app**
 - 📫 How to reach me **monishanand1521@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
