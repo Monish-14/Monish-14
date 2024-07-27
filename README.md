@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:3200/1*vkfI4nFNheC5v0p7wzDtGg.gif)]
+![MasterHead](https://miro.medium.com/v2/resize:fit:3200/1*vkfI4nFNheC5v0p7wzDtGg.gif)
 
 <h1 align="center">Hi 👋, I'm Monish</h1>
 <h3 align="center">Aspiring Flutter Developer & Ethical Hacking Enthusiast</h3>
